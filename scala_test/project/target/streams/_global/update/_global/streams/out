@@ -1,0 +1,3 @@
+[debug] "not up to date. inChanged = true, force = false
+[debug] Updating ProjectRef(uri("file:/home/uladzimir/kafka_docker/scala_test/project/"), "scala_test-build")...
+[debug] Done updating ProjectRef(uri("file:/home/uladzimir/kafka_docker/scala_test/project/"), "scala_test-build")
